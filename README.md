@@ -22,12 +22,6 @@ I am an Information Systems student interested in database management, system an
 - Database Design
 - ERD & LRS
 
-**System Analysis**
-- Use Case Diagram
-- System Requirements Analysis
-- System Design
-- COBIT 5
-
 **Programming & Development**
 - PHP
 - Laravel
