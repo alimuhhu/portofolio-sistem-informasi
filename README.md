@@ -42,22 +42,17 @@ I am an Information Systems student interested in database management, and softw
 - Logical Record Structure (LRS)
 - SQL Database Implementation
 
-### 2. System Analysis
-- Use Case Diagram
-- Information Systems Analysis
-- System Design Documentation
-
-### 3. Web Development
+### 2. Web Development
 - Webparkir
 - Tokoonline
 - Purchase Requisition System
 
-### 4. Mobile Development
+### 3. Mobile Development
 - Food Ordering Application using Flutter
 - Supabase Database Integration
 - Product and Menu Management
 
-### 5. IT Governance
+### 4. IT Governance
 - COBIT 5 IT Governance Assignment
 
 ## 📜 Certificates
