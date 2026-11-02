@@ -1,16 +1,15 @@
 # 👋 Hi, I'm Ali Muhammad Husein
 
-### Information Systems Student | Database Design | System Analysis | Software Development
+### Information Systems Student | Database Design | Software Development
 
 Welcome to my GitHub Portfolio!
 
-I am an Information Systems student interested in database management, system analysis, and software development. This repository contains my academic projects, practical assignments, and learning experiences in the field of Information Systems.
+I am an Information Systems student interested in database management, and software development. This repository contains my academic projects, practical assignments, and learning experiences in the field of Information Systems.
 
 ## 👨‍💻 About Me
 
 - 🎓 Information Systems Student
 - 💾 Interested in Database Design and Database Management
-- 📊 Interested in System Analysis and Information Systems Development
 - 💻 Learning Web and Mobile Application Development
 - 🚀 Continuously improving technical and analytical skills
 
