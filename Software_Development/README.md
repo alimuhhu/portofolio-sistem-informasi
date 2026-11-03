@@ -72,6 +72,4 @@ Fitur aplikasi.
 
 Struktur folder dan kode program.
 
-Screenshot hasil aplikasi.
-
 Dokumentasi database jika diperlukan.
