@@ -1,8 +1,8 @@
-Portofolio Software Development
+##Portofolio Software Development
 
 Folder ini berisi kumpulan proyek pengembangan perangkat lunak yang telah dikerjakan sebagai bagian dari tugas perkuliahan, pelatihan, dan pembelajaran mandiri.
 
-1. Pengembangan Aplikasi Web
+##1. Pengembangan Aplikasi Web
 
 Kumpulan proyek pengembangan aplikasi berbasis web menggunakan bahasa pemrograman dan framework web.
 
@@ -26,7 +26,7 @@ Tokoonline
 
 Purchase Requisition System
 
-2. Pengembangan Aplikasi Mobile
+##2. Pengembangan Aplikasi Mobile
 
 Kumpulan proyek pengembangan aplikasi mobile menggunakan Flutter dan integrasi database.
 
@@ -46,7 +46,7 @@ Aplikasi Pemesanan Makanan
 
 Aplikasi Manajemen Menu dan Produk
 
-3. Ruang Lingkup Pengembangan
+##3. Ruang Lingkup Pengembangan
 
 Perancangan antarmuka aplikasi.
 
@@ -60,7 +60,7 @@ Implementasi autentikasi pengguna.
 
 Pengujian dan dokumentasi aplikasi.
 
-4. Dokumentasi Proyek
+##4. Dokumentasi Proyek
 
 Dokumentasi setiap proyek akan mencakup:
 
